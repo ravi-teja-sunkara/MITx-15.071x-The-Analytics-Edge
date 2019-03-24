@@ -20,4 +20,5 @@ In the last decade, the amount of data available to organizations has reached un
 ### SOFTWARE USED
 R, Microsoft Excel and LibreOffice Calc
 
+### CERTIFICATE
 ![MIT Certificate](https://github.com/ravi-teja-sunkara/MITx-15.071x-The-Analytics-Edge/blob/master/MITx%2015.071x%20Certificate%20_%20edX.png)

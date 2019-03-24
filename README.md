@@ -1,5 +1,5 @@
 # MITx-15.071x-The-Analytics-Edge
-Massachusetts Institute of Technology - "15.071x: The Analytics Edge" (
+Massachusetts Institute of Technology - "15.071x: The Analytics Edge" (https://www.edx.org/course/the-analytics-edge-0)
 
 
 #### Unit 1: An Introduction to Analytics
@@ -19,3 +19,5 @@ In the last decade, the amount of data available to organizations has reached un
 
 ### SOFTWARE USED
 R, Microsoft Excel and LibreOffice Calc
+
+https://courses.edx.org/certificates/f2477c5b6489497eb78b9bd492fa87f9
